@@ -38,6 +38,14 @@
     background-color: #1B79C5;
 }
 
+.ui-color-interests {
+    background-color: #FFC107;
+}
+
+.ui-color-github {
+    background-color: #BD1B0F;
+}
+
 .row-table {
     display: table;
 }
